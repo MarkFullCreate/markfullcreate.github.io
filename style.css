@@ -1,11 +1,12 @@
 html {
   font-family: sans-serif;
+  background-color: #cccccc;
 }
 a {
   color: #ff0000;
 }
 a:hover {
-  color: #00ff00
+  color: #00ff00;
 }
 a:active {
   color: #0000ff;
